@@ -1,0 +1,15 @@
+7
+
+101 Apple_Juice 50.0
+
+102 Pineapple_Juice 70.5
+
+103 Orange_Juice 40.0
+
+104 Grape_Juice 60.0
+
+105 Carrot_Juice 45.0
+
+106 Beet_Juice 65.5
+
+107 Mix_Fruit_Juice 75.0
